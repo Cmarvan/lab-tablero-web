@@ -35,18 +35,16 @@ border-radius: 4px;
 color: #7c8b99;
 text-decoration: line-through;
 }
-<<<<<<< HEAD
+.contador {
+font-family: monospace;
+font-size: 13px;
+color: var(--acento);
+margin: 0 0 16px;
+}
 .vacio {
 border: 1px dashed var(--borde);
 padding: 14px;
 border-radius: 4px;
 color: #7c8b99;
 text-align: center;
-=======
-.contador {
-font-family: monospace;
-font-size: 13px;
-color: var(--acento);
-margin: 0 0 16px;
->>>>>>> origin/main
 }
