@@ -35,3 +35,9 @@ border-radius: 4px;
 color: #7c8b99;
 text-decoration: line-through;
 }
+.contador {
+font-family: monospace;
+font-size: 13px;
+color: var(--acento);
+margin: 0 0 16px;
+}
